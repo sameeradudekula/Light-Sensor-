@@ -1,1 +1,1 @@
-
+Light Sensor System using Arduino and an LDR (Light Dependent Resistor) to detect changes in light intensity and control an LED accordingly. This project demonstrates basic sensor interfacing and automation concepts using Tinkercad simulation.
